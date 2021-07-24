@@ -1,8 +1,8 @@
 # Instacart-Warehousing
-## Problem Statement: Instakart is stuggling with its skyrocketing warehousing costs, recommend ways to reduce it.
+## Problem Statement: Instacart is stuggling with its skyrocketing warehousing costs, recommend ways to reduce it.
 ## Solution:
 To reduce the warehousing costs, proper inventory management is required.
-In this project, market research is done utilizing the dataset of orders, opensourced by Instakart, which will help in identifying the products, dpeartments, aisles that are not important and can be removed from the warehouses, thus reducing warehousing costs.
+In this project, market research is done utilizing the dataset of orders, opensourced by Instacart, which will help in identifying the products, dpeartments, aisles that are not important and can be removed from the warehouses, thus reducing warehousing costs.
 
 ## Results:
 Below mentioned are some pointers, for details and full lists, look at the updated notebook and sorted lists of department, aisles and products
