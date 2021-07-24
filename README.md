@@ -5,7 +5,7 @@ To reduce the warehousing costs, proper inventory management is required.
 In this project, market research is done utilizing the dataset of orders, opensourced by Instakart, which will help in identifying the products, dpeartments, aisles that are not important and can be removed from the warehouses, thus reducing warehousing costs.
 
 ## Results:
-Below mentioned are some pointers, for details and full lists, look at the updated notebook
+Below mentioned are some pointers, for details and full lists, look at the updated notebook and sorted lists of department, aisles and products
 * **Most important aisles are**: Candy chocolate, Fresh Fruits, Yogurt, Vitamins Supplements, Chips, Fresh Vegetables
 * **Least important aisles are**: Baby accessories, Frozen Juice, Packaged seafood, Frozen bread doughs, Fresh herbes
 * Fruits are ordered more than vegetables
